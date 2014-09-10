@@ -1,0 +1,28 @@
+{
+	"people":
+	[
+		{"cName" : "陈双",		"eName" : "doublechen",		"sex" : 1,	"phone" : "18503081989"},
+		{"cName" : "周志超",		"eName" : "zhichaozhou",	"sex" : 1,	"phone" : "13828825071"},
+		{"cName" : "于涛",		"eName" : "jetyu",			"sex" : 1,	"phone" : "18665388598"},
+		{"cName" : "严峻",		"eName" : "yanjun",			"sex" : 1,	"phone" : "13510163349"},
+		{"cName" : "潘祥智",		"eName" : "ippan",			"sex" : 1,	"phone" : "17722690381"},
+		
+		{"cName" : "郭大扬",		"eName" : "melody",			"sex" : 1,	"phone" : "18002571513"},
+		{"cName" : "曹良昭",		"eName" : "stevcao",		"sex" : 1,	"phone" : "18825280452"},
+		{"cName" : "陆晓文",		"eName" : "hiumanlu",		"sex" : 1,	"phone" : "15889378380"},
+		{"cName" : "谭伟林",		"eName" : "bizaitan",		"sex" : 1,	"phone" : "13640286174"},
+		{"cName" : "刘义纯",		"eName" : "akiraliu",		"sex" : 0,	"phone" : "18676799248"},
+		
+		{"cName" : "陈小雅",		"eName" : "jdochen",		"sex" : 1,	"phone" : "13113676176"},
+		{"cName" : "黎腾",		"eName" : "littenli",		"sex" : 1,	"phone" : "18503081050"},
+		{"cName" : "苏周",		"eName" : "karlsu",			"sex" : 1,	"phone" : "15013685441"},
+		{"cName" : "曹颖",		"eName" : "wingcao",		"sex" : 0,	"phone" : "15820426478"},
+		{"cName" : "李继鹏",		"eName" : "jeepli",			"sex" : 1,	"phone" : "18500320621"},
+		
+		{"cName" : "兰鹏",		"eName" : "roclan",			"sex" : 1,	"phone" : "18002572992"},
+		{"cName" : "王金杰",		"eName" : "joyjjwang",		"sex" : 1,	"phone" : "13410033350"},
+		{"cName" : "陈炉军",		"eName" : "vigosschen",		"sex" : 1,	"phone" : "18681563457"},
+		{"cName" : "袁雪",		"eName" : "janieyuan",		"sex" : 0,	"phone" : "13760484244"},
+		{"cName" : "付玓瓅",		"eName" : "dilyfu",			"sex" : 0,	"phone" : "18681473313"}
+	]
+}

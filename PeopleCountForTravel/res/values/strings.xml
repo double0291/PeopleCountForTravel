@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">人员统计</string>
+    <string name="action_settings">Settings</string>
+    <string name="operation_content_description">拨号</string>
+    <string name="foreground_content_description">前景色</string>
+
+</resources>
